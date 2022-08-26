@@ -1,4 +1,4 @@
-# Cpp
+# LMS
 
 One of the functions of the Learning Management System (LMS) is to provide
 teachers with tools to view and analyze students’ grades. The aim of this exercise
